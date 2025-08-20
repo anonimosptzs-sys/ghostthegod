@@ -1,0 +1,2 @@
+# ghostthegod
+wordilist personalizavel
