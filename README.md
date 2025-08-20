@@ -1,3 +1,5 @@
+![image alt](https://github.com/anonimosptzs-sys/ghostthegod/blob/main/Captura%20de%20tela_2025-08-19_21-38-49.png?raw=true)
+
 # 💀 GhostTheGod – Wordlist Tool
 🚀 Ferramenta poderosa para geração e manipulação de **wordlists** para testes éticos.  
 
